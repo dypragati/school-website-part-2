@@ -1,0 +1,7 @@
+.home{
+   display: flex;
+   flex-wrap: wrap;
+   background-color: peru;
+   border: solid black;
+   text-align: center;
+}
